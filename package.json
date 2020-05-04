@@ -1,0 +1,18 @@
+{
+  "name": "gpahqltest",
+  "version": "1.0.0",
+  "description": "first project in graphql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Ebrahim Salehi",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.12.0",
+    "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "graphql": "^15.0.0"
+  }
+}
